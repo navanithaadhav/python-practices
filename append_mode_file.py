@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 28 10:36:45 2022
 
-@author: ADMIN
+author: ADMIN
 """
 
 try:
